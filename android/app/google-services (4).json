@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298415847530",
+    "project_id": "flutterauthfirebase-a96ab",
+    "storage_bucket": "flutterauthfirebase-a96ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298415847530:android:5e4d98588b201a77fd3213",
+        "android_client_info": {
+          "package_name": "com.example.food_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298415847530-2bgororlmueg38eajqsimgikvn8gbdj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqrfsuwpDjMVEnRWfDujIqzcYwvMdTwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298415847530-2bgororlmueg38eajqsimgikvn8gbdj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
